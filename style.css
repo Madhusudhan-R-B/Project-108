@@ -1,0 +1,44 @@
+#myCarousel{
+    background-color:blanchedalmond;
+    border-radius: 20px;
+}
+
+#title{
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#header{
+    background-color:lightgray;
+    margin-top: -20px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+h3{
+    color:white;
+}
+
+#myCarousel{
+    width: 50%;
+    margin: 0px;
+}
+
+button{
+    width: 200px;
+    height: 200px;
+}
+
+#microphone{
+    width: 150px;
+    height: 150px;
+}
+
+body{
+    background-color:lightskyblue;
+}
+
+ol{
+    background-color:darkseagreen;
+    border-radius:10px;
+}
